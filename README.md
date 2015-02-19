@@ -1,2 +1,2 @@
-# PDF-Watermarks-Frames
-PDF Watermarks &amp; Frames main repository
+# PDF Watermarks Frames
+Developed by Marcello Silvestri and Francesco Mauro

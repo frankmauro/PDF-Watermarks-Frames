@@ -1,3 +1,4 @@
+![Logo](https://raw.githubusercontent.com/frankmauro/PDF-Watermarks-Frames/master/assets/Logo.png)
 # PDF Watermarks Frames
 Developed by Marcello Silvestri and Francesco Mauro
 
